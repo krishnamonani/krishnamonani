@@ -2,7 +2,6 @@
 
 ![WakaTime Stats](https://wakatime.com/share/@f15dbc65-7297-47c7-914e-423067c84b75/b75b2da3-6deb-4377-af73-c078e1109755.svg)
 
-<img src="https://wakatime.com/share/@f15dbc65-7297-47c7-914e-423067c84b75/b75b2da3-6deb-4377-af73-c078e1109755.svg" alt="WakaTime Stats">
 
 <!--
 **krishnamonani/krishnamonani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
