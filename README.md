@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Krishna Monani</h1>
-<h3 align="center">🚀 DevOps Enthusiast | Cloud & Automation Explorer | Lifelong Learner</h3>
+<h3 align="center">💡 Engineer | Problem Solver | DevOps + Python Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishnamonani&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamonani" />
@@ -11,10 +10,10 @@
 🔧 **About Me**
 
 - 🎓 B.Tech in Computer Engineering | Marwadi University  
-- 💼 DevOps Intern at **Promact Infotech Pvt. Ltd.**
-- 🌱 Currently diving deeper into **Kubernetes**, **AWS**, and **CI/CD pipelines**
-- 🛠️ Passionate about building **reliable, scalable, and automated systems**
-- ✍️ I write scripts, deploy services, and automate everything that can be automated
+- 💼 Ex-DevOps Intern at **Promact Infotech Pvt. Ltd.**
+- 🌱 Currently deep diving into **Python**, along with **Kubernetes**, **Cloud**, and **CI/CD**
+- 🛠️ Passionate about solving real-world problems using clean code and automation
+- ✍️ I love scripting, deploying services, and automating workflows
 
 ---
 
@@ -32,18 +31,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnamonani&show_icons=true&theme=tokyonight" alt="krishna-monani-stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnamonani&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="krishna-monani-streak" />
 </p>
 
 ---
 
 🧠 **What I'm Learning Right Now**
 
+- Writing scalable Python scripts and applications
 - Advanced Docker & Kubernetes practices
-- Monitoring with Grafana and Prometheus
-- CI/CD strategies in multi-environment architecture
-- GitHub Actions for automated workflows
+- Monitoring & observability with Grafana and Prometheus
+- Multi-environment CI/CD strategies using GitHub Actions
 
 ---
 
