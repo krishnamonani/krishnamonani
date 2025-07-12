@@ -27,14 +27,6 @@
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnamonani&show_icons=true&theme=tokyonight" alt="krishna-monani-stats" />
-</p>
-
----
-
 🧠 **What I'm Learning Right Now**
 
 - Writing scalable Python scripts and applications
